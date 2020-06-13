@@ -14,9 +14,9 @@ AIZOO数据集 https://github.com/AIZOOTech/FaceMaskDetection
 其中包含train训练数据和val测试数据
 在`config/maskface.yaml`文件中，修改  
 trainset_path:  
-  '/Dataset/FaceMaskNew/train' AIZOO数据集中train训练数据的路径  
+  '/Dataset/FaceMaskNew/train' ###AIZOO数据集中train训练数据的路径  
 valset_path:  
-  '/Dataset/FaceMaskNew/val'   AIZOO数据集中val训练数据的路径  
+  '/Dataset/FaceMaskNew/val'   ###AIZOO数据集中val训练数据的路径  
 为你的训练集和测试集路径  
 
 ## 训练模型
