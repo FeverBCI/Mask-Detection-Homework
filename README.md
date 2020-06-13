@@ -20,5 +20,7 @@ python train.py
 模型结构和训练好的模型参数存储在SSD model/models 中  
 
 ## 测试图片
-将测试test-images/中的10张图片
-得到测试结果将在原图中显示是否存在口罩。
+将测试test-images/中的10张图片  
+运行  
+python test.py  
+得到测试结果将在原图中显示是否存在口罩。 
